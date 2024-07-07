@@ -1,3 +1,4 @@
+# Ecommerce Application
 Full-Stack E-Commerce Application
 This project represents a basic e-commerce application with user authentication, product listings, and a shopping cart. The application demonstrates proficiency in both frontend (React) and backend (Node.js) development, along with database integration (MongoDB) and API development (Express).
 	
